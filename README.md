@@ -4,7 +4,7 @@
 
 Phone: +91 7498613635  
 Email: oneekamedh@gmail.com  
-Blog: Money Deciphered
+Blog: [Money Deciphered] (https://moneydeciphered.wordpress.com/)
 
 ## Education
 
