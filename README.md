@@ -19,13 +19,13 @@ SIES College Of Commerce and Economics (July 2021)
 ## Work Experience
 
 Credit Risk Analyst, Kotak Mahindra Bank (June 2023 - Sept 2023)  
-Enhanced Risk Assessment: Developed and implemented a credit default prediction model using logistic regression, achieving 89% accuracy.  
-Data Management Expertise: Managed a 1 crore+ record database, ensuring accuracy and seamless migration across multiple business lines.  
-Proactive Default Prevention: The model is currently used by the bank to implement proactive measures. 
+- Enhanced Risk Assessment: Developed and implemented a credit default prediction model using logistic regression, achieving 89% accuracy.  
+- Data Management Expertise: Managed a 1 crore+ record database, ensuring accuracy and seamless migration across multiple business lines.  
+- Proactive Default Prevention: The model is currently used by the bank to implement proactive measures. 
 
 Data Scientist, Cardinality-ai (July 2022 - Sept 2022)
-Sentiment Analysis: Executed a sentiment analysis project on over 300 child welfare cases, improving the prioritization of urgent cases.
-Metrics Visualization: Developed a dashboard for tracking product metrics using MicroStrategy, facilitating improved data-driven decision-making.
+- Sentiment Analysis: Executed a sentiment analysis project on over 300 child welfare cases, improving the prioritization of urgent cases.
+- Metrics Visualization: Developed a dashboard for tracking product metrics using MicroStrategy, facilitating improved data-- driven decision-making.
 
 ## Projects
 
